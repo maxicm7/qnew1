@@ -1,0 +1,11 @@
+# Main web application framework
+streamlit==1.33.0
+
+# Data manipulation and analysis
+pandas==2.2.1
+
+# Fundamental package for scientific computing
+numpy==1.26.4
+
+# Evolutionary algorithm framework (for the Genetic Algorithm)
+deap==1.4.1
